@@ -5,4 +5,10 @@ __pycache__/
 .env
 logs/
 data/
+exports/
 utils.py
+exports/plots_pred/
+exports/best_lstm_soh_global.h5
+exports/best_lstm_soh_rul.h5
+exports/model_effnet.h5
+test/
